@@ -74,9 +74,9 @@ In our paper, we experiment with Cityscapes, CamVid, and WildDash2.
 - [WildDash2](https://www.wilddash.cc/)
 
 **Pretrained Checkpoint**
-- [Cityscapes](https://drive.google.com/file/d/1acN1JK__LKzGV5TynQExiUVTot5PxE_D/view?usp=sharing)
-- [CamVid](https://drive.google.com/file/d/1naC6bAfEmvoSaigPP3odNgPlra-ElODj/view?usp=sharing)
-- [WildDash2](https://drive.google.com/file/d/1pmBRPKH8gvaC_ZsDQCYxjU9XNAOGw_e1/view?usp=sharing)
+- [Cityscapes](https://drive.google.com/file/d/1LD3mtbUVwQTE7wOA3O8ameOpQlLiJcpC/view?usp=sharing)
+- [CamVid](https://drive.google.com/file/d/1dSvqb8sL6x6xMbCJQYSaNgcVfgOVtnRQ/view?usp=sharing)
+- [WildDash2](https://drive.google.com/file/d/1KADP7oO-45_6oCBAE6e9w4UgBytIyY9a/view?usp=sharing)
 
 ## training DPL
 DPL trains segmentation model with single or dual path.
